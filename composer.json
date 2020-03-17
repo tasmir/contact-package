@@ -17,10 +17,10 @@
         }
     },
     "extra": {
-    "laravel": {
-        "providers": [
-            "Tasmir\\Contact\\ContactServiceProvider"
-        ]
-    }
-},
+        "laravel": {
+            "providers": [
+                "Tasmir\\Contact\\ContactServiceProvider"
+            ]
+        }
+    },
 }
